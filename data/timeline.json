@@ -1,0 +1,42 @@
+[
+	{
+		"date": "1-22-2022",
+		"title": "Launched avionmedia.no",
+		"description": "AvionMedia is a company that builds online stores and websites for both Small, Medium and Large companies.",
+		"icon": "feather:award",
+			"link": {
+			"text": "Check out AvionMedia (Norwegian)",
+			"url": "https://avionmedia.no/"
+		}
+	},
+	{
+		"date": "08-29-2021",
+		"title": "Started my first business.",
+		"description": "In August 2021, I started my first business. This was a company that printed '' Custom Phone Covers ''. That business went very well, but I felt that it was not for me, and I no longer enjoyed producing covers.",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "3-5-2020",
+		"title": "My first line of code..",
+		"description": "I have always been fascinated by technology. And, I've been good at data for a long time. I think I realized the interest in 2nd grade. In March 2020, when korona broke out in Norway, I came across a ''Tutorial'' on how to make a ''Covid Tracker with API'', it was the first time I used an IDE and wrote code. ",
+		"icon": "feather:award"
+	},
+	{
+		"date": "08-18-2019",
+		"title": "New computer!",
+		"description": "I first got my own computer in 2019, but before that i always used my mothers computer.. *😳* viruses crashed the pc.. But it really just shows how curious I am, I think I pressed on everything I came across, hehe.",
+		"icon": "feather:hard-drive"
+	},
+	{
+		"date": "08-18-2015",
+		"title": "Start Primary School",
+		"description": "I began at Primary School in 2015 :)",
+		"icon": "feather:book"
+	},
+	{
+		"date": "02-02-2009",
+		"title": "Hello World!",
+		"description": "I was born the 2th of February 2009",
+		"icon": "feather:gift"
+	}
+]
