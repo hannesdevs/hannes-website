@@ -8,7 +8,7 @@ export function useSeoProps(
 ): Partial<ComponentProps<typeof NextSeo>> {
 	const router = useRouter();
 
-	const title = 'nuro ─ developer';
+	const title = 'hannes ─ developer';
 	const description = "Hey 👋 I'm Johannes, a developer";
 
 	return {
@@ -18,7 +18,7 @@ export function useSeoProps(
 		openGraph: {
 			title,
 			description,
-			site_name: 'nuro',
+			site_name: 'hannes',
 			url: `https://jb.avionmedia.no/${router.asPath}`,
 			type: 'website',
 			images: [
